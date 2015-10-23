@@ -1,0 +1,135 @@
+Se a cargado correctamente el fichero de datos
+--------------------------------------------------------------------------------
+Se ha  cargado la plantilla
+--------------------------------------------------------------------------------
+Total de contornos externos detectados: 7
+Contorno #1 
+resultado de la comparacion: 0.337564
+elementos del contorno:327
+Perimetro: 576.381836
+--------------------------------------------------------------------------------
+El contorno de mas similitud es el 1 con un valor de 0.337564
+                                                                       
+--------------------------------///////////////---------------------------------
+Se a cargado correctamente el fichero de datos
+--------------------------------------------------------------------------------
+Se ha  cargado la plantilla
+--------------------------------------------------------------------------------
+Total de contornos externos detectados: 7
+Contorno #1 
+resultado de la comparacion: 4.603924
+elementos del contorno:327
+Perimetro: 576.381836
+--------------------------------------------------------------------------------
+El contorno de mas similitud es el 1 con un valor de 4.603924
+                                                                       
+--------------------------------///////////////---------------------------------
+De todo el proceso el de mayor similitud es :0.337564
+Posible arma  blanca en la imagenletra del fichero de resultado S
+letra del fichero de las imagenes s
+letra aux e
+letra aux2 
+
+--------------------------------------------------------------------------------
+Se ha  cargado la plantilla
+--------------------------------------------------------------------------------
+Total de contornos externos detectados: 14
+El contorno de mas similitud es el 0 con un valor de 100.000000
+                                                                       
+--------------------------------///////////////---------------------------------
+Se a cargado correctamente el fichero de datos
+--------------------------------------------------------------------------------
+Se ha  cargado la plantilla
+--------------------------------------------------------------------------------
+Total de contornos externos detectados: 14
+El contorno de mas similitud es el 0 con un valor de 100.000000
+                                                                       
+--------------------------------///////////////---------------------------------
+Se a cargado correctamente el fichero de datos
+--------------------------------------------------------------------------------
+Se ha  cargado la plantilla
+--------------------------------------------------------------------------------
+Total de contornos externos detectados: 14
+El contorno de mas similitud es el 0 con un valor de 100.000000
+                                                                       
+--------------------------------///////////////---------------------------------
+Se a cargado correctamente el fichero de datos
+--------------------------------------------------------------------------------
+Se ha  cargado la plantilla
+--------------------------------------------------------------------------------
+Total de contornos externos detectados: 14
+El contorno de mas similitud es el 0 con un valor de 100.000000
+                                                                       
+--------------------------------///////////////---------------------------------
+De todo el proceso el de mayor similitud es :100.000000
+No se encuentran coincidencias
+letra del fichero de resultado S
+letra del fichero de las imagenes s
+letra aux e
+letra aux2 
+
+n
+s
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+s
+n
+n
+s
+n
+n
+n
+n
+s
+s
+s
+s
+s
+s
+n
+s
+s
+s
+n
+n
+n
+n
+n
+s
+n
+n
+s
+n
+n
+s
+n
+s
+n
+n
+n
+n
+s
+s
+n
+s
+s
+s
+s
+n
+n
+n
+n
+n
+s
